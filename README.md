@@ -38,7 +38,7 @@ Na classe **Application** temos um pequeno código utilizando a Lib tinker, nati
 para a criação de uma pequena interface gráfica para o projeto. Existe também uma pequena interação
 com botão para realizar o download.
 
-- colocar uma pequna imagem
+![Imagem interface gráfica](./interface.png)
 
 Já a clase **Baixar_mp3** é onde temos o código para executar a tarefa em si. Nela existem 2 métodos
 criados, um para baixar a música em MP4, seguindo do outro para converter para MP3. Ainda nesta classe
@@ -63,3 +63,4 @@ no terminal
 ```bash
 python3 app.py
 ```
+Após realizar o start, abra um video, copie sua URL e cole no local onde a aplicação sugere.
